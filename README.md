@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shidhishiva</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shidhishiva&label=Profile%20views&color=0e75b6&style=flat" alt="shidhishiva" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NEXTJS, 3D modelling**
+- 🌱 I’m currently learning **ReactJS, 3D modelling**
 
 - 💬 Ask me about **React,Vue,Python,C++**
 
