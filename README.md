@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, 3D modelling**
 
-- 💬 Ask me about **React,Vue,Python,C++**
+- 💬 Ask me about **React,Vue,Python,JavaScript**
 
 - 📫 How to reach me **shidhishiva007@gmail.com**
 
